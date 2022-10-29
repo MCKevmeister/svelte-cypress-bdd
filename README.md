@@ -4,7 +4,7 @@ Everything you need to build a Svelte project, powered by [`create-svelte`](http
 
 ## Tutorial
 
-https://github.com/JoanEsquivel/cypress-playwright-webkit
+[Link to the tutorial that I'm following](https://github.com/JoanEsquivel/cypress-playwright-webkit)
 
 ## Developing
 
