@@ -6,6 +6,16 @@ Everything you need to build a Svelte project, powered by [`create-svelte`](http
 
 [Link to the tutorial that I'm following](https://github.com/JoanEsquivel/cypress-playwright-webkit)
 
+## Opening Cypress 
+
+```bash
+npx cypress open
+```
+
+This opens the cypress test runner. Select webkit to test for Safari browser compatibility.
+
+![img.png](readme-images/cypress-webkit.png)
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
